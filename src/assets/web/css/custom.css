@@ -1,0 +1,123 @@
+.jumbotron-header {
+    background-color: #2e7d32;
+}
+
+.header-logo {
+    margin-top: 18px;
+    padding-right: 5px;
+    float: left;
+}
+
+.header-text {
+    color: white;
+}
+
+.header-school {
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.navbar-top {
+    background-color: #005005;
+    color: white;
+}
+
+.navbar-blue {
+    background-color: #005005;
+    border-bottom: 5px solid #f3ca35;
+}
+
+.nav-link {
+    color: white!important;
+    border-radius: .3rem;
+}
+
+.nav-web .nav-link:hover {
+    background: #f3ca35;
+    border-radius: .3rem;
+    color: #005006 !important;
+}
+
+.navbar-nav .nav-link {
+    /* margin-top: 10px; */
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.nav-web .active {
+    background: #f3ca35;
+    border-radius: .3rem;
+    color: #005006 !important;
+}
+
+.btn-primary {
+    background-color: #2e7d32;
+    border-color: #2e7d32;
+}
+
+.btn-primary:hover {
+    background-color: #2e7d32;
+    border-color: #2e7d32;
+}
+
+.btn-primary-dark {
+    background-color: #005005;
+    border-color: #005005;
+    color: white;
+}
+
+.btn-primary-dark:hover { 
+    color: white;
+}
+
+.img-slider {
+    height: 400px;
+    -o-object-fit: cover;
+       object-fit: cover;
+}
+
+.img-post {
+    height: 160px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    border-top-left-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+}
+
+.card-category {
+    background-color: #C4C4C4;
+}
+
+.footer-top {
+    background-color: #2e7d32;
+    color: white;
+    border-top: 5px solid #f3ca35;
+}
+
+.footer-bottom {
+    background-color: #005005;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgb(255 255 255) !important;
+    border-color: rgb(255 255 255) !important;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/* .navbar {
+    padding-top: 0px !important;
+} */
+
+.text-green {
+    color: #2e7d32!important;
+}
+
+.carousel-custom{z-index:9;background:#fff;border:none;border-radius:50%;padding:10px;width:22px}
+
+.post-content p {
+    margin-bottom: 0px!important;
+    font-size: 18px;
+}
